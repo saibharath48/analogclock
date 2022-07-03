@@ -39,11 +39,7 @@
     left: 49.7%;
 }
 h2{
-    position: absolute;
-    margin: auto;
-    text-align: justify;
-    align-content: center;
+    text-align: center;
     color: red;
-    left: 45%;
-    top: 90%;
+    justify-content: center;
 }
